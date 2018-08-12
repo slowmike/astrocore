@@ -65,3 +65,10 @@ To run tests
 ```sh
 npm test
 ```
+
+## Collaborators
+
+- [Nicholas Vincent-Hill](https://github.com/nvincenthill 'nvincenthill')
+- [Alexander Vincent-Hill](https://github.com/avincenthill)
+- [Michael Lin](https://github.com/slowmike 'slowmike')
+- [Steve Oh](https://github.com/OhxSteve 'OhxSteve')
